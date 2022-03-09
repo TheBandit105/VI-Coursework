@@ -1,6 +1,3 @@
-#--------------------
-# Windows Instructions
-#--------------------
 # Use virtual environment
     poetry shell
 # Download/Install requirements
